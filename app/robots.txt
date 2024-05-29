@@ -1,4 +1,5 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://bokepnonton.pages.dev/sitemap.xml
+sitemap: https://bokepnonton.pages.dev/sitemap1.xml
+sitemap: https://bokepnonton.pages.dev/sitemap2.xml
